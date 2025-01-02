@@ -1,0 +1,11 @@
+{
+  "paths": [
+    {
+      "_path": "Library/bin/brotli.exe",
+      "path_type": "hardlink",
+      "sha256": "74e8cd02929edf80a3f7b7b30062c41cb406b329c29bc441dd6a52dffd51295c",
+      "size_in_bytes": 36624
+    }
+  ],
+  "paths_version": 1
+}
